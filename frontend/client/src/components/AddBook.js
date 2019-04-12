@@ -54,7 +54,7 @@ class AddBook extends Component {
                         { this.displayAuthors() }
                     </select>
                 </div>
-                <button>Submit</button>
+                <button>+</button>
 
             </form>
         );
